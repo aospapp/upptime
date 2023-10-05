@@ -1,7 +1,7 @@
 url: https://aosp.app/android-12.0.0_r1
-status: up
-code: 200
-responseTime: 1051
-lastUpdated: 2023-10-05T19:14:11.956Z
+status: down
+code: 530
+responseTime: 16
+lastUpdated: 2023-10-05T20:41:21.263Z
 startTime: 2023-10-05T02:55:31.555Z
 generator: Upptime <https://github.com/upptime/upptime>
