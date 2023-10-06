@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aosp.app.ico",
     "slug": "android-14-0-0-r1",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "uptime": "97.21%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "97.21%",
+    "uptimeMonth": "97.21%",
+    "uptimeYear": "97.21%",
     "time": 3408,
     "timeDay": 3408,
     "timeWeek": 3408,
     "timeMonth": 3408,
     "timeYear": 3408,
     "dailyMinutesDown": {
-      "2023-10-06": 4
+      "2023-10-06": 39
     }
   },
   {
@@ -133,11 +133,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/aosp.app.ico",
     "slug": "android-9-0-0-r1",
     "status": "up",
-    "uptime": "95.11%",
-    "uptimeDay": "95.11%",
-    "uptimeWeek": "95.11%",
-    "uptimeMonth": "95.11%",
-    "uptimeYear": "95.11%",
+    "uptime": "95.23%",
+    "uptimeDay": "95.23%",
+    "uptimeWeek": "95.23%",
+    "uptimeMonth": "95.23%",
+    "uptimeYear": "95.23%",
     "time": 4313,
     "timeDay": 4313,
     "timeWeek": 4313,
@@ -153,18 +153,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aosp.app.ico",
     "slug": "android-8-1-0-r1",
     "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptime": "97.32%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "97.32%",
     "time": 2984,
     "timeDay": 2984,
     "timeWeek": 2984,
     "timeMonth": 2984,
     "timeYear": 2984,
     "dailyMinutesDown": {
-      "2023-10-06": 2
+      "2023-10-06": 37
     }
   },
   {
@@ -209,18 +209,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aosp.app.ico",
     "slug": "android-7-0-0-r1",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "97.40%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "97.40%",
+    "uptimeMonth": "97.40%",
+    "uptimeYear": "97.40%",
     "time": 4621,
     "timeDay": 4621,
     "timeWeek": 4621,
     "timeMonth": 4621,
     "timeYear": 4621,
     "dailyMinutesDown": {
-      "2023-10-06": 1
+      "2023-10-06": 36
     }
   },
   {
@@ -264,19 +264,19 @@
     "url": "https://aosp.app/android-5.0.0_r1",
     "icon": "https://icons.duckduckgo.com/ip3/aosp.app.ico",
     "slug": "android-5-0-0-r1",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 4580,
-    "timeDay": 4580,
-    "timeWeek": 4580,
-    "timeMonth": 4580,
-    "timeYear": 4580,
+    "status": "up",
+    "uptime": "97.48%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "97.48%",
+    "uptimeYear": "97.48%",
+    "time": 5382,
+    "timeDay": 5382,
+    "timeWeek": 5382,
+    "timeMonth": 5382,
+    "timeYear": 5382,
     "dailyMinutesDown": {
-      "2023-10-06": 0
+      "2023-10-06": 35
     }
   }
 ]
