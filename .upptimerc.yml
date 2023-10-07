@@ -24,7 +24,9 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Aosp App
+    - title: Main Site
       href: https://aosp.app
+    - title: China Site
+      href: http://aosp.xtuly.cn
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
