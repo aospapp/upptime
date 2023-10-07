@@ -28,5 +28,7 @@ status-website:
       href: https://aosp.app
     - title: China Site
       href: http://aosp.xtuly.cn
+    - title: Backup Site
+      href: https://tunnel.aosp.app
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
