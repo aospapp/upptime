@@ -2,36 +2,8 @@ owner: aospapp
 repo: upptime
 
 sites:
-  - name: Main Site
+  - name: Aosp App
     url: https://aosp.app
-  - name: android-14.0.0_r1
-    url: https://aosp.app/android-14.0.0_r1
-  - name: android-13.0.0_r1
-    url: https://aosp.app/android-13.0.0_r1
-  - name: android-12.1.0_r1
-    url: https://aosp.app/android-12.1.0_r1
-  - name: android-12.0.0_r1
-    url: https://aosp.app/android-12.0.0_r1
-  - name: android-11.0.0_r1
-    url: https://aosp.app/android-11.0.0_r1
-  - name: android-10.0.0_r1
-    url: https://aosp.app/android-10.0.0_r1
-  - name: android-9.0.0_r1
-    url: https://aosp.app/android-9.0.0_r1
-  - name: android-8.1.0_r1
-    url: https://aosp.app/android-8.1.0_r1
-  - name: android-8.0.0_r1
-    url: https://aosp.app/android-8.0.0_r1
-  - name: android-7.1.0_r1
-    url: https://aosp.app/android-7.1.0_r1
-  - name: android-7.0.0_r1
-    url: https://aosp.app/android-7.0.0_r1
-  - name: android-6.0.0_r1
-    url: https://aosp.app/android-6.0.0_r1
-  - name: android-5.1.0_r1
-    url: https://aosp.app/android-5.1.0_r1
-  - name: android-5.0.0_r1
-    url: https://aosp.app/android-5.0.0_r1
 
 assignees:
   - Ylarod
