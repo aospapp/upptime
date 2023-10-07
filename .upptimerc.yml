@@ -2,8 +2,12 @@ owner: aospapp
 repo: upptime
 
 sites:
-  - name: Aosp App
+  - name: Main Site
     url: https://aosp.app
+  - name: China Site
+    url: http://aosp.xtuly.cn
+  - name: Backup Site
+    url: https://tunnel.aosp.app
 
 assignees:
   - Ylarod
