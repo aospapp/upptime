@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2567,
-    "timeDay": 1210,
-    "timeWeek": 2567,
-    "timeMonth": 2567,
-    "timeYear": 2567,
+    "time": 2472,
+    "timeDay": 1158,
+    "timeWeek": 2472,
+    "timeMonth": 2472,
+    "timeYear": 2472,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1613,
-    "timeDay": 1703,
-    "timeWeek": 1613,
-    "timeMonth": 1613,
-    "timeYear": 1613,
+    "time": 1684,
+    "timeDay": 1732,
+    "timeWeek": 1684,
+    "timeMonth": 1684,
+    "timeYear": 1684,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "https://tunnel.aosp.app",
     "icon": "https://icons.duckduckgo.com/ip3/tunnel.aosp.app.ico",
     "slug": "backup-site",
-    "status": "down",
-    "uptime": "97.99%",
-    "uptimeDay": "96.43%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "97.99%",
-    "uptimeYear": "97.99%",
-    "time": 393,
-    "timeDay": 405,
-    "timeWeek": 393,
-    "timeMonth": 393,
-    "timeYear": 393,
+    "status": "up",
+    "uptime": "96.96%",
+    "uptimeDay": "94.53%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "96.96%",
+    "time": 401,
+    "timeDay": 402,
+    "timeWeek": 401,
+    "timeMonth": 401,
+    "timeYear": 401,
     "dailyMinutesDown": {
-      "2023-10-08": 51
+      "2023-10-08": 78
     }
   }
 ]
