@@ -31,7 +31,7 @@ status-website:
     - title: Main Site
       href: https://aosp.app
     - title: China Site
-      href: http://aosp.xtuly.cn
+      href: http://aosp.ylarod.cn
     - title: Backup Site
       href: https://tunnel.aosp.app
     - title: GitHub
