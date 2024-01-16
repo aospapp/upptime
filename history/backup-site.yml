@@ -1,7 +1,7 @@
 url: https://tunnel.aosp.app
-status: down
-code: 502
-responseTime: 5727
-lastUpdated: 2024-01-16T15:45:23.822Z
+status: up
+code: 200
+responseTime: 516
+lastUpdated: 2024-01-16T16:14:16.603Z
 startTime: 2023-10-07T04:02:50.629Z
 generator: Upptime <https://github.com/upptime/upptime>
