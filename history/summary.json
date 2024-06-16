@@ -69,11 +69,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/aosp.ylarod.cn.ico",
     "slug": "china-site",
     "status": "up",
-    "uptime": "94.87%",
+    "uptime": "94.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.85%",
-    "uptimeYear": "94.87%",
+    "uptimeYear": "94.88%",
     "time": 1968,
     "timeDay": 957,
     "timeWeek": 1197,
@@ -128,9 +128,9 @@
     "slug": "backup-site",
     "status": "up",
     "uptime": "87.46%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "96.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "96.56%",
     "uptimeYear": "87.46%",
     "time": 665,
     "timeDay": 1757,
@@ -138,7 +138,6 @@
     "timeMonth": 502,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2024-06-15": 10,
       "2024-06-11": 70,
       "2024-05-30": 189,
       "2024-05-29": 169,
@@ -217,7 +216,7 @@
       "2023-10-21": 1440,
       "2023-10-20": 1059,
       "2023-10-09": 229,
-      "2023-10-08": 59
+      "2023-10-08": 78
     }
   }
 ]
