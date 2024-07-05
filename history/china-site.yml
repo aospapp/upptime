@@ -1,7 +1,7 @@
 url: http://aosp.ylarod.cn
-status: up
-code: 200
-responseTime: 1455
-lastUpdated: 2024-07-05T13:23:37.125Z
+status: down
+code: 504
+responseTime: 15926
+lastUpdated: 2024-07-05T15:15:02.011Z
 startTime: 2023-10-07T04:02:48.730Z
 generator: Upptime <https://github.com/upptime/upptime>
