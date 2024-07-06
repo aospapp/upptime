@@ -150,18 +150,19 @@
     "url": "https://tunnel.aosp.app",
     "icon": "https://icons.duckduckgo.com/ip3/tunnel.aosp.app.ico",
     "slug": "backup-site",
-    "status": "up",
-    "uptime": "88.41%",
-    "uptimeDay": "94.83%",
+    "status": "down",
+    "uptime": "88.42%",
+    "uptimeDay": "94.82%",
     "uptimeWeek": "88.11%",
     "uptimeMonth": "86.62%",
-    "uptimeYear": "88.41%",
-    "time": 638,
-    "timeDay": 456,
-    "timeWeek": 424,
-    "timeMonth": 491,
-    "timeYear": 638,
+    "uptimeYear": "88.42%",
+    "time": 637,
+    "timeDay": 424,
+    "timeWeek": 416,
+    "timeMonth": 487,
+    "timeYear": 637,
     "dailyMinutesDown": {
+      "2024-07-06": 0,
       "2024-07-05": 74,
       "2024-07-04": 108,
       "2024-07-03": 22,
@@ -238,8 +239,7 @@
       "2024-02-02": 254,
       "2024-01-27": 19,
       "2024-01-26": 75,
-      "2024-01-22": 68,
-      "2024-01-18": 18
+      "2024-01-22": 68
     }
   }
 ]
