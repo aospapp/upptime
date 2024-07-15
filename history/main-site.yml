@@ -1,7 +1,7 @@
 url: https://aosp.app
-status: up
-code: 200
-responseTime: 805
-lastUpdated: 2024-07-15T15:55:06.724Z
+status: down
+code: 504
+responseTime: 15946
+lastUpdated: 2024-07-15T18:46:58.381Z
 startTime: 2023-10-07T04:02:47.051Z
 generator: Upptime <https://github.com/upptime/upptime>
